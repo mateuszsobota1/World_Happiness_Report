@@ -10,9 +10,11 @@ After the data cleaning and showing some visual charts we create Machine Learnin
 
 ## Methods Used
 
-Machine Learning
+Exploratory Data Analysis
 
 Data Visualization
+
+Machine Learning
 
 Predictive Modeling
 
