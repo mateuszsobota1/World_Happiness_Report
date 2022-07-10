@@ -72,8 +72,8 @@ Tableau
 
 ## Authors
 
+- [Mateusz Sobota](https://github.com/mateuszsobota1)
 - [Izabela Białkowska](https://github.com/Izabela-Bialkowska)
 - [Agnieszka Bielicka](https://github.com/1bielicla)
-- [Mateusz Sobota](https://github.com/mateuszsobota1)
 
 
